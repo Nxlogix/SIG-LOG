@@ -1,0 +1,54 @@
+{
+    "proyecto": "SIG-LOG",
+    "unidad": "III. Análisis supervisado",
+    "tipo_modelo": "Regresión",
+    "objetivo": "Predecir los minutos de retraso de una entrega",
+    "variable_objetivo": "minutos_retraso",
+    "registros_totales": 5000,
+    "registros_entrenamiento": 4000,
+    "registros_prueba": 1000,
+    "variables_predictoras": [
+        "peso_carga",
+        "cantidad_paquetes",
+        "distancia_real_km",
+        "precio_combustible",
+        "costo_envio",
+        "fecha_salida_anio",
+        "fecha_salida_mes",
+        "fecha_salida_dia",
+        "fecha_salida_dia_semana",
+        "fecha_salida_fin_semana",
+        "fecha_salida_semana",
+        "fecha_salida_trimestre",
+        "hora_salida_num",
+        "tipo_combustible"
+    ],
+    "numero_variables_originales": 14,
+    "numero_variables_procesadas": 15,
+    "modelos_evaluados": [
+        {
+            "modelo": "RandomForestRegressor",
+            "MAE": 16.492496337178697,
+            "MSE": 405.4651175764914,
+            "RMSE": 20.136164420675836,
+            "R2": 0.049551988061300456
+        },
+        {
+            "modelo": "LinearRegression",
+            "MAE": 16.909616074512364,
+            "MSE": 410.38289592211265,
+            "RMSE": 20.25790946573986,
+            "R2": 0.03802425744001203
+        },
+        {
+            "modelo": "DecisionTreeRegressor",
+            "MAE": 16.74145190199744,
+            "MSE": 535.5859215996801,
+            "RMSE": 23.14272934637745,
+            "R2": -0.25546329965299663
+        }
+    ],
+    "mejor_modelo": "RandomForestRegressor",
+    "criterio_seleccion": "Menor RMSE",
+    "interpretacion": "El modelo estima la cantidad de minutos de retraso utilizando información disponible antes o durante la preparación de la entrega."
+}

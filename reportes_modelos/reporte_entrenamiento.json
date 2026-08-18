@@ -1,0 +1,18 @@
+{
+    "proyecto": "SIG-LOG",
+    "proceso": "Preparación de datos para aprendizaje supervisado",
+    "registros_originales": 5000,
+    "registros_predictivos": 5000,
+    "variables_originales": 32,
+    "variables_predictoras": 14,
+    "variables_procesadas": 15,
+    "registros_entrenamiento": 4000,
+    "registros_prueba": 1000,
+    "variable_objetivo": "entrega_tardia",
+    "clases": {
+        "0": "A tiempo",
+        "1": "Tardía"
+    },
+    "random_state": 42,
+    "test_size": 0.2
+}

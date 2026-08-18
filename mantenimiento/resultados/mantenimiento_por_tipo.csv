@@ -1,0 +1,4 @@
+﻿tipo_mantenimiento,cantidad,costo_total,horas_fuera_servicio,porcentaje
+Correctivo,153,2384723.07,2210,35.01144164759725
+Emergencia,79,1642110.74,1133,18.07780320366133
+Preventivo,205,1811383.36,2805,46.910755148741416

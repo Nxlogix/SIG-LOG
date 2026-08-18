@@ -1,0 +1,41 @@
+﻿id_vehiculo,nivel_riesgo,prioridad,mantenimientos,fallas,emergencias,fallas_criticas,costo_total,horas_fuera_servicio,recomendacion
+9,CRÍTICO,CRÍTICA,15,12,3,3,213006.04,238,Programar inspección inmediata y revisar historial completo de componentes.
+12,CRÍTICO,CRÍTICA,15,10,4,4,154886.8,337,Programar inspección inmediata y revisar historial completo de componentes.
+36,CRÍTICO,CRÍTICA,15,10,4,1,230537.2,146,Programar inspección inmediata y revisar historial completo de componentes.
+27,CRÍTICO,CRÍTICA,13,9,6,1,225112.97,121,Programar inspección inmediata y revisar historial completo de componentes.
+29,CRÍTICO,CRÍTICA,15,9,3,2,196519.35,256,Programar inspección inmediata y revisar historial completo de componentes.
+4,CRÍTICO,CRÍTICA,15,9,2,2,201691.25,190,Programar inspección inmediata y revisar historial completo de componentes.
+3,CRÍTICO,CRÍTICA,11,8,6,0,163227.18,63,Programar inspección inmediata y revisar historial completo de componentes.
+17,CRÍTICO,CRÍTICA,13,8,4,1,226072.48,177,Programar inspección inmediata y revisar historial completo de componentes.
+22,CRÍTICO,CRÍTICA,12,7,3,3,168660.44,200,Programar inspección inmediata y revisar historial completo de componentes.
+25,CRÍTICO,CRÍTICA,13,7,1,4,193999.4,288,Programar inspección inmediata y revisar historial completo de componentes.
+26,CRÍTICO,CRÍTICA,14,7,3,2,215070.15,194,Programar inspección inmediata y revisar historial completo de componentes.
+16,CRÍTICO,CRÍTICA,13,6,1,4,174036.52,241,Programar inspección inmediata y revisar historial completo de componentes.
+30,ALTO,ALTA,11,9,2,1,149984.74,141,Programar mantenimiento preventivo prioritario.
+35,ALTO,ALTA,12,7,2,2,190798.03,217,Programar mantenimiento preventivo prioritario.
+21,ALTO,ALTA,13,7,2,1,152705.3,163,Programar mantenimiento preventivo prioritario.
+20,ALTO,ALTA,11,6,3,2,175075.6,147,Programar mantenimiento preventivo prioritario.
+2,ALTO,ALTA,13,6,3,1,194126.51,146,Programar mantenimiento preventivo prioritario.
+14,ALTO,ALTA,12,6,3,1,169539.96,143,Programar mantenimiento preventivo prioritario.
+31,ALTO,ALTA,10,6,1,2,130213.41,159,Programar mantenimiento preventivo prioritario.
+15,ALTO,ALTA,13,6,2,1,151439.04,189,Programar mantenimiento preventivo prioritario.
+19,ALTO,ALTA,9,3,1,3,135895.14,201,Programar mantenimiento preventivo prioritario.
+38,MODERADO,MEDIA,11,8,1,0,177636.34,93,Monitorear comportamiento y programar revisión.
+6,MODERADO,MEDIA,11,6,1,1,128698.3,140,Monitorear comportamiento y programar revisión.
+1,MODERADO,MEDIA,11,5,1,1,182621.12,163,Monitorear comportamiento y programar revisión.
+23,MODERADO,MEDIA,7,5,2,0,80008.77,119,Monitorear comportamiento y programar revisión.
+32,MODERADO,MEDIA,10,5,2,0,143313.02,74,Monitorear comportamiento y programar revisión.
+24,MODERADO,MEDIA,12,5,0,1,165805.52,92,Monitorear comportamiento y programar revisión.
+37,MODERADO,MEDIA,10,5,0,0,104942.03,100,Monitorear comportamiento y programar revisión.
+34,MODERADO,MEDIA,6,4,1,2,61925.14,135,Monitorear comportamiento y programar revisión.
+39,MODERADO,MEDIA,8,4,2,1,77287.04,96,Monitorear comportamiento y programar revisión.
+33,MODERADO,MEDIA,10,4,3,0,99853.95,95,Monitorear comportamiento y programar revisión.
+7,MODERADO,MEDIA,9,4,2,0,96644.16,110,Monitorear comportamiento y programar revisión.
+13,MODERADO,MEDIA,13,3,0,3,105330.84,211,Monitorear comportamiento y programar revisión.
+11,MODERADO,MEDIA,10,3,1,2,125932.87,123,Monitorear comportamiento y programar revisión.
+10,MODERADO,MEDIA,6,3,1,2,99629.68,76,Monitorear comportamiento y programar revisión.
+18,MODERADO,MEDIA,5,3,2,0,68830.56,18,Monitorear comportamiento y programar revisión.
+40,MODERADO,MEDIA,12,2,1,2,124063.54,126,Monitorear comportamiento y programar revisión.
+28,MODERADO,MEDIA,5,2,0,2,51796.78,143,Monitorear comportamiento y programar revisión.
+5,MODERADO,MEDIA,7,1,0,2,70482.42,180,Monitorear comportamiento y programar revisión.
+8,BAJO,BAJA,6,2,0,1,60817.58,97,Continuar con mantenimiento preventivo programado.

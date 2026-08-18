@@ -1,0 +1,5 @@
+componente,variables_principales
+PC1,"costo_total, costo_combustible, combustible_consumido_litros"
+PC2,"peso_carga, precio_combustible, distancia_real_km"
+PC3,"cantidad_paquetes, precio_combustible, peso_carga"
+PC4,"minutos_retraso, peso_carga, precio_combustible"

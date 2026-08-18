@@ -1,0 +1,21 @@
+﻿id_componente,nombre,categoria,vida_util_km,costo_reemplazo,descripcion,estatus
+1,Motor,Motor,19858,16424.12,Componente correspondiente a Motor,Activo
+2,Alternador,Sistema eléctrico,24913,17698.19,Componente correspondiente a Sistema eléctrico,Activo
+3,Batería,Sistema eléctrico,106662,19996.92,Componente correspondiente a Sistema eléctrico,Activo
+4,Pastillas de freno,Frenos,85255,22305.13,Componente correspondiente a Frenos,Activo
+5,Discos de freno,Frenos,30114,8780.88,Componente correspondiente a Frenos,Activo
+6,Neumáticos,Suspensión,33670,9701.78,Componente correspondiente a Suspensión,Activo
+7,Amortiguadores,Suspensión,142924,2802.56,Componente correspondiente a Suspensión,Activo
+8,Radiador,Motor,110789,14667.86,Componente correspondiente a Motor,Activo
+9,Bomba de agua,Motor,131297,1380.59,Componente correspondiente a Motor,Activo
+10,Bomba de combustible,Combustible,20753,11907.15,Componente correspondiente a Combustible,Activo
+11,Inyectores,Combustible,127894,13794.79,Componente correspondiente a Combustible,Activo
+12,Filtro de aire,Motor,59345,7520.26,Componente correspondiente a Motor,Activo
+13,Filtro de combustible,Combustible,94286,14975.41,Componente correspondiente a Combustible,Activo
+14,Clutch,Transmisión,134683,1247.26,Componente correspondiente a Transmisión,Activo
+15,Caja de cambios,Transmisión,141430,1415.03,Componente correspondiente a Transmisión,Activo
+16,Banda de distribución,Motor,49547,20653.71,Componente correspondiente a Motor,Activo
+17,Sensor de temperatura,Sensores,26219,9324.67,Componente correspondiente a Sensores,Activo
+18,Sensor de presión,Sensores,128101,3612.98,Componente correspondiente a Sensores,Activo
+19,Luces,Sistema eléctrico,37132,13294.96,Componente correspondiente a Sistema eléctrico,Activo
+20,Sistema de escape,Escape,100030,19364.84,Componente correspondiente a Escape,Activo

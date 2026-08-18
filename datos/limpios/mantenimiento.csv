@@ -1,0 +1,438 @@
+﻿id_mantenimiento,id_vehiculo,id_componente,fecha_mantenimiento,kilometraje_mantenimiento,tipo_mantenimiento,categoria_componente,componente,severidad,causa_falla,solucion,horas_fuera_servicio,costo_repuesto,costo_mano_obra,costo_total,estado
+M00001,1,4,2025-04-22,237402.0,Preventivo,Frenos,Pastillas de freno,Crítica,Desgaste por uso,Lubricación,61,16162.28,2891,19053.28,Pendiente
+M00002,1,13,2025-06-04,184464.0,Correctivo,Combustible,Filtro de combustible,Alta,Obstrucción,Ajuste y calibración,28,12054.4,521,12575.4,Completado
+M00003,1,15,2025-09-02,179021.0,Preventivo,Transmisión,Caja de cambios,Media,Sobrecalentamiento,Ajuste del componente,6,552.96,689,1241.96,Completado
+M00004,1,20,2025-10-05,169079.0,Correctivo,Escape,Sistema de escape,Baja,Falla eléctrica,Reparación del componente,3,17803.39,1146,18949.39,Pendiente
+M00005,1,3,2025-11-01,164202.0,Preventivo,Sistema eléctrico,Batería,Media,Falla mecánica,Lubricación,8,9740.02,2541,12281.02,Pendiente
+M00006,1,18,2025-11-06,189616.0,Correctivo,Sensores,Sensor de presión,Media,Falla eléctrica,Reemplazo del componente,6,4997.61,3056,8053.61,Pendiente
+M00007,1,2,2025-12-05,171614.0,Preventivo,Sistema eléctrico,Alternador,Media,Falla mecánica,Revisión general,9,10548.47,3113,13661.47,Completado
+M00008,1,8,2026-01-02,172474.0,Preventivo,Motor,Radiador,Baja,Desgaste interno,Ajuste del componente,2,11040.09,701,11741.09,Completado
+M00009,1,4,2026-02-19,164106.0,Emergencia,Frenos,Pastillas de freno,Alta,Desgaste por uso,Reemplazo del componente,24,41554.23,1378,42932.23,Completado
+M00010,1,8,2026-07-12,197397.0,Correctivo,Motor,Radiador,Baja,Desgaste por kilometraje,Ajuste y calibración,4,19663.31,3068,22731.31,Completado
+M00011,1,4,2026-07-29,225505.0,Preventivo,Frenos,Pastillas de freno,Media,Pérdida de presión,Ajuste del componente,12,17104.36,2296,19400.36,Completado
+M00012,2,20,2018-10-29,24020.0,Preventivo,Escape,Sistema de escape,Baja,Falla mecánica,Inspección y ajuste,4,8535.51,1984,10519.51,Pendiente
+M00013,2,12,2019-01-30,0.0,Correctivo,Motor,Filtro de aire,Media,Fuga de aceite,Cambio de pieza dañada,7,8176.54,2778,10954.54,Pendiente
+M00014,2,20,2019-06-21,25140.0,Preventivo,Escape,Sistema de escape,Media,Falla mecánica,Revisión general,12,12218.43,3125,15343.43,Completado
+M00015,2,20,2019-08-31,0.0,Correctivo,Escape,Sistema de escape,Media,Mantenimiento preventivo,Corrección de falla,10,27590.86,1863,29453.86,Completado
+M00016,2,4,2019-09-17,0.0,Emergencia,Frenos,Pastillas de freno,Baja,Desgaste de pastillas,Ajuste y calibración,1,41362.9,3180,44542.9,Completado
+M00017,2,15,2020-11-08,0.0,Emergencia,Transmisión,Caja de cambios,Media,Desgaste por kilometraje,Reemplazo del componente,9,2080.22,1757,3837.22,Pendiente
+M00018,2,4,2021-05-13,8086.0,Preventivo,Frenos,Pastillas de freno,Crítica,Desgaste de pastillas,Lubricación,62,10284.77,1063,11347.77,Completado
+M00019,2,8,2023-07-03,0.0,Preventivo,Motor,Radiador,Alta,Desgaste por kilometraje,Ajuste del componente,13,9157.2,1198,10355.2,Completado
+M00020,2,17,2023-07-28,722.0,Correctivo,Sensores,Sensor de temperatura,Baja,Desgaste por uso,Corrección de falla,2,10925.29,1653,12578.29,Completado
+M00021,2,8,2023-12-20,22097.0,Preventivo,Motor,Radiador,Media,Desgaste por kilometraje,Lubricación,7,7561.32,793,8354.32,Completado
+M00022,2,11,2026-04-20,0.0,Emergencia,Combustible,Inyectores,Media,Obstrucción,Corrección de falla,6,22162.14,1647,23809.14,Pendiente
+M00023,2,1,2026-05-03,12685.0,Preventivo,Motor,Motor,Media,Sobrecalentamiento,Ajuste del componente,10,7422.44,2034,9456.44,Completado
+M00024,2,14,2026-05-05,45637.0,Preventivo,Transmisión,Clutch,Baja,Desgaste por kilometraje,Lubricación,3,553.89,3020,3573.89,Completado
+M00025,3,14,2021-08-23,137295.0,Preventivo,Transmisión,Clutch,Baja,Desgaste de engranajes,Inspección y ajuste,4,911.74,3363,4274.74,Pendiente
+M00026,3,9,2022-01-15,147226.0,Correctivo,Motor,Bomba de agua,Media,Desgaste por kilometraje,Ajuste y calibración,7,1972.85,1943,3915.85,Pendiente
+M00027,3,8,2022-02-07,177737.0,Emergencia,Motor,Radiador,Baja,Sobrecalentamiento,Reparación del componente,2,20933.04,2384,23317.04,Completado
+M00028,3,12,2022-06-23,67641.0,Emergencia,Motor,Filtro de aire,Media,Fuga de aceite,Corrección de falla,8,9133.06,660,9793.06,Pendiente
+M00029,3,8,2023-04-07,109846.0,Preventivo,Motor,Radiador,Baja,Desgaste por kilometraje,Revisión general,3,7560.87,1454,9014.87,Completado
+M00030,3,12,2024-01-10,130560.0,Emergencia,Motor,Filtro de aire,Media,Sobrecalentamiento,Cambio de pieza dañada,4,12905.39,1297,14202.39,Pendiente
+M00031,3,16,2024-06-17,76991.0,Correctivo,Motor,Banda de distribución,Media,Desgaste interno,Corrección de falla,4,25854.95,1715,27569.95,Pendiente
+M00032,3,9,2024-10-19,136412.0,Emergencia,Motor,Bomba de agua,Alta,Fuga de aceite,Cambio de pieza dañada,16,2482.54,2646,5128.54,Completado
+M00033,3,18,2025-01-13,62079.0,Emergencia,Sensores,Sensor de presión,Alta,Falla eléctrica,Ajuste y calibración,12,6801.1,1199,8000.1,Pendiente
+M00034,3,16,2025-03-02,156844.0,Preventivo,Motor,Banda de distribución,Baja,Falta de lubricación,Lubricación,2,15872.53,1069,16941.53,Pendiente
+M00035,3,3,2025-10-06,97863.0,Emergencia,Sistema eléctrico,Batería,Baja,Falla eléctrica,Reemplazo del componente,1,38032.11,3037,41069.11,Completado
+M00036,4,18,2022-03-17,49995.0,Correctivo,Sensores,Sensor de presión,Baja,Falla mecánica,Reparación del componente,1,2981.29,2482,5463.29,Completado
+M00037,4,2,2022-05-24,5352.0,Emergencia,Sistema eléctrico,Alternador,Alta,Falla mecánica,Ajuste y calibración,21,21669.67,3117,24786.67,Pendiente
+M00038,4,15,2022-09-15,57910.0,Correctivo,Transmisión,Caja de cambios,Baja,Fuga de aceite,Cambio de pieza dañada,2,1584.95,504,2088.95,Pendiente
+M00039,4,3,2022-11-05,0.0,Correctivo,Sistema eléctrico,Batería,Crítica,Falla eléctrica,Cambio de pieza dañada,39,17934.18,3370,21304.18,Completado
+M00040,4,10,2022-12-03,0.0,Correctivo,Combustible,Bomba de combustible,Baja,Desgaste de bomba,Reparación del componente,4,11783.11,619,12402.11,Completado
+M00041,4,11,2023-02-24,52653.0,Preventivo,Combustible,Inyectores,Alta,Fuga,Ajuste del componente,20,10017.65,2353,12370.65,Completado
+M00042,4,1,2023-07-18,44065.0,Preventivo,Motor,Motor,Baja,Falta de lubricación,Inspección y ajuste,2,7520.68,3349,10869.68,Pendiente
+M00043,4,10,2023-08-01,57618.0,Correctivo,Combustible,Bomba de combustible,Alta,Obstrucción,Cambio de pieza dañada,16,15676.09,1712,17388.09,Completado
+M00044,4,16,2023-12-21,0.0,Preventivo,Motor,Banda de distribución,Media,Falta de lubricación,Inspección y ajuste,8,8345.63,1496,9841.63,Completado
+M00045,4,13,2024-01-16,31837.0,Emergencia,Combustible,Filtro de combustible,Crítica,Falla de inyector,Cambio de pieza dañada,49,18176.09,1727,19903.09,Completado
+M00046,4,2,2024-08-07,1860.0,Correctivo,Sistema eléctrico,Alternador,Baja,Falla mecánica,Cambio de pieza dañada,2,19095.52,856,19951.52,Pendiente
+M00047,4,11,2024-11-30,37672.0,Preventivo,Combustible,Inyectores,Media,Fuga,Revisión general,11,7938.46,2989,10927.46,Completado
+M00048,4,2,2024-12-18,11846.0,Correctivo,Sistema eléctrico,Alternador,Baja,Desgaste por uso,Corrección de falla,4,22042.79,1395,23437.79,Completado
+M00049,4,15,2025-05-25,56961.0,Preventivo,Transmisión,Caja de cambios,Media,Desgaste por kilometraje,Ajuste del componente,8,842.69,1456,2298.69,Completado
+M00050,4,16,2025-06-21,0.0,Preventivo,Motor,Banda de distribución,Baja,Falta de lubricación,Lubricación,3,7873.45,784,8657.45,Completado
+M00051,5,2,2023-02-25,78484.0,Preventivo,Sistema eléctrico,Alternador,Crítica,Falla mecánica,Cambio preventivo,68,10144.9,1116,11260.9,Completado
+M00052,5,7,2023-11-18,46858.0,Correctivo,Suspensión,Amortiguadores,Baja,Holgura,Reemplazo del componente,1,3317.05,3308,6625.05,Pendiente
+M00053,5,1,2024-03-07,49943.0,Preventivo,Motor,Motor,Baja,Sobrecalentamiento,Revisión general,3,8497.97,2071,10568.97,Pendiente
+M00054,5,4,2024-05-31,67492.0,Preventivo,Frenos,Pastillas de freno,Alta,Desgaste de pastillas,Ajuste del componente,28,11598.18,1372,12970.18,Pendiente
+M00055,5,5,2026-04-10,69708.0,Preventivo,Frenos,Discos de freno,Crítica,Desgaste por uso,Cambio preventivo,64,3284.65,2724,6008.65,Pendiente
+M00056,5,6,2026-05-03,81844.0,Preventivo,Suspensión,Neumáticos,Media,Desgaste de bujes,Cambio preventivo,8,3759.23,1890,5649.23,Pendiente
+M00057,5,4,2026-06-14,48434.0,Preventivo,Frenos,Pastillas de freno,Media,Pérdida de presión,Lubricación,8,15732.44,1667,17399.44,Completado
+M00058,6,17,2022-01-27,0.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla mecánica,Revisión general,1,3878.8,3181,7059.8,Completado
+M00059,6,3,2022-07-20,0.0,Preventivo,Sistema eléctrico,Batería,Alta,Desgaste por uso,Inspección y ajuste,18,9128.76,999,10127.76,Completado
+M00060,6,15,2023-07-27,23609.0,Correctivo,Transmisión,Caja de cambios,Media,Sobrecalentamiento,Ajuste y calibración,9,1901.8,2310,4211.8,Completado
+M00061,6,7,2023-09-24,0.0,Preventivo,Suspensión,Amortiguadores,Media,Golpe por irregularidad del camino,Ajuste del componente,7,1491.92,1152,2643.92,Pendiente
+M00062,6,13,2023-11-01,4181.0,Correctivo,Combustible,Filtro de combustible,Baja,Obstrucción,Corrección de falla,1,14470.06,2496,16966.06,Completado
+M00063,6,16,2024-06-13,0.0,Preventivo,Motor,Banda de distribución,Baja,Fuga de aceite,Revisión general,4,7341.76,2605,9946.76,Completado
+M00064,6,10,2024-06-30,0.0,Correctivo,Combustible,Bomba de combustible,Crítica,Contaminación,Ajuste y calibración,58,10140.81,3311,13451.81,Pendiente
+M00065,6,11,2024-12-10,0.0,Preventivo,Combustible,Inyectores,Baja,Obstrucción,Revisión general,1,6656.29,2049,8705.29,Completado
+M00066,6,2,2025-05-01,2049.0,Emergencia,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Corrección de falla,11,34811.67,1535,36346.67,Pendiente
+M00067,6,9,2025-07-15,0.0,Correctivo,Motor,Bomba de agua,Alta,Falta de lubricación,Corrección de falla,29,1552.6,3223,4775.6,Pendiente
+M00068,6,17,2026-03-29,23320.0,Correctivo,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Reemplazo del componente,1,12016.83,2446,14462.83,Completado
+M00069,7,15,2019-03-06,147452.0,Preventivo,Transmisión,Caja de cambios,Media,Fuga de aceite,Lubricación,11,761.58,2444,3205.58,Completado
+M00070,7,7,2019-05-31,136629.0,Correctivo,Suspensión,Amortiguadores,Alta,Desgaste por uso,Ajuste y calibración,28,4178.88,2693,6871.88,Completado
+M00071,7,5,2020-02-11,125968.0,Preventivo,Frenos,Discos de freno,Baja,Pérdida de presión,Inspección y ajuste,2,6385.88,1188,7573.88,Completado
+M00072,7,13,2020-05-13,180058.0,Preventivo,Combustible,Filtro de combustible,Alta,Falla de inyector,Cambio preventivo,17,11978.43,3256,15234.43,Completado
+M00073,7,3,2020-11-12,193633.0,Correctivo,Sistema eléctrico,Batería,Alta,Desgaste por uso,Reemplazo del componente,25,19459.88,582,20041.88,Completado
+M00074,7,1,2021-11-07,181342.0,Preventivo,Motor,Motor,Media,Fuga de aceite,Lubricación,11,12239.24,1969,14208.24,Pendiente
+M00075,7,19,2023-11-21,136565.0,Preventivo,Sistema eléctrico,Luces,Baja,Falla mecánica,Ajuste del componente,2,9627.11,2665,12292.11,Completado
+M00076,7,12,2024-02-13,174157.0,Emergencia,Motor,Filtro de aire,Media,Fuga de aceite,Cambio de pieza dañada,10,11451.75,1262,12713.75,Completado
+M00077,7,15,2024-06-25,144760.0,Emergencia,Transmisión,Caja de cambios,Baja,Desgaste de engranajes,Reparación del componente,4,1852.41,2650,4502.41,Completado
+M00078,8,20,2023-08-02,0.0,Preventivo,Escape,Sistema de escape,Media,Falla mecánica,Lubricación,7,15051.99,2628,17679.99,Pendiente
+M00079,8,7,2023-11-27,1185.0,Preventivo,Suspensión,Amortiguadores,Baja,Desgaste por uso,Revisión general,2,1559.94,2375,3934.94,Completado
+M00080,8,18,2024-05-07,9133.0,Correctivo,Sensores,Sensor de presión,Crítica,Falla eléctrica,Ajuste y calibración,46,4249.17,2406,6655.17,Completado
+M00081,8,8,2025-09-24,0.0,Correctivo,Motor,Radiador,Media,Desgaste por kilometraje,Cambio de pieza dañada,5,18588.44,1166,19754.44,Completado
+M00082,8,8,2025-11-17,0.0,Preventivo,Motor,Radiador,Media,Fuga de aceite,Revisión general,9,6972.6,1989,8961.6,Completado
+M00083,8,14,2025-12-20,4241.0,Preventivo,Transmisión,Clutch,Alta,Desgaste por kilometraje,Lubricación,28,938.44,2893,3831.44,Completado
+M00084,9,7,2022-01-15,125806.0,Correctivo,Suspensión,Amortiguadores,Baja,Golpe por irregularidad del camino,Ajuste y calibración,3,3641.49,1382,5023.49,Completado
+M00085,9,10,2022-04-24,131756.0,Correctivo,Combustible,Bomba de combustible,Alta,Fuga,Reemplazo del componente,26,13965.09,3353,17318.09,Completado
+M00086,9,15,2022-05-09,236671.0,Correctivo,Transmisión,Caja de cambios,Media,Falta de lubricación,Reparación del componente,9,1964.76,2476,4440.76,Completado
+M00087,9,3,2022-05-25,234137.0,Correctivo,Sistema eléctrico,Batería,Baja,Desgaste por uso,Reemplazo del componente,3,25503.5,2572,28075.5,Completado
+M00088,9,7,2023-05-10,224823.0,Preventivo,Suspensión,Amortiguadores,Media,Fatiga del componente,Revisión general,12,1141.79,3295,4436.79,Completado
+M00089,9,4,2023-08-03,162030.0,Correctivo,Frenos,Pastillas de freno,Baja,Desgaste de discos,Reemplazo del componente,1,33247.15,2862,36109.15,Completado
+M00090,9,13,2024-08-15,121312.0,Correctivo,Combustible,Filtro de combustible,Crítica,Contaminación,Ajuste y calibración,27,14558.65,2105,16663.65,Completado
+M00091,9,12,2024-12-22,224687.0,Emergencia,Motor,Filtro de aire,Crítica,Desgaste por kilometraje,Cambio de pieza dañada,63,12179.88,3446,15625.88,Pendiente
+M00092,9,6,2024-12-30,158154.0,Emergencia,Suspensión,Neumáticos,Baja,Desgaste de bujes,Reemplazo del componente,2,18359.7,574,18933.7,Completado
+M00093,9,9,2025-05-29,184292.0,Emergencia,Motor,Bomba de agua,Media,Desgaste por kilometraje,Cambio de pieza dañada,6,2247.64,1346,3593.64,Pendiente
+M00094,9,5,2025-08-29,195632.0,Correctivo,Frenos,Discos de freno,Crítica,Desgaste de discos,Corrección de falla,56,9639.7,3383,13022.7,Completado
+M00095,9,13,2026-01-20,159256.0,Correctivo,Combustible,Filtro de combustible,Baja,Fuga,Ajuste y calibración,2,12895.37,819,13714.37,Completado
+M00096,9,1,2026-04-04,190371.0,Correctivo,Motor,Motor,Alta,Sobrecalentamiento,Cambio de pieza dañada,21,17009.2,1401,18410.2,Completado
+M00097,9,2,2026-05-09,120985.0,Preventivo,Sistema eléctrico,Alternador,Media,Falla mecánica,Revisión general,4,12644.36,1691,14335.36,Completado
+M00098,9,9,2026-06-30,144663.0,Preventivo,Motor,Bomba de agua,Baja,Sobrecalentamiento,Inspección y ajuste,3,859.76,2443,3302.76,Completado
+M00099,10,12,2025-02-11,27490.0,Preventivo,Motor,Filtro de aire,Baja,Desgaste interno,Revisión general,1,3105.1,1872,4977.1,Completado
+M00100,10,18,2025-04-04,0.0,Correctivo,Sensores,Sensor de presión,Crítica,Falla eléctrica,Reparación del componente,37,3486.47,2552,6038.47,Completado
+M00101,10,4,2025-07-30,0.0,Correctivo,Frenos,Pastillas de freno,Baja,Desgaste por uso,Ajuste y calibración,4,28507.91,2636,31143.91,Completado
+M00102,10,2,2025-11-22,0.0,Emergencia,Sistema eléctrico,Alternador,Baja,Falla eléctrica,Reemplazo del componente,1,29414.2,2690,32104.2,Completado
+M00103,10,19,2026-04-11,0.0,Preventivo,Sistema eléctrico,Luces,Crítica,Desgaste por uso,Cambio preventivo,29,8387.88,2651,11038.88,Completado
+M00104,10,20,2026-07-04,0.0,Preventivo,Escape,Sistema de escape,Baja,Mantenimiento preventivo,Cambio preventivo,4,12181.12,2146,14327.12,Pendiente
+M00105,11,3,2023-04-24,82645.0,Preventivo,Sistema eléctrico,Batería,Baja,Desgaste por uso,Ajuste del componente,3,11826.51,3353,15179.51,Completado
+M00106,11,13,2023-04-30,114460.0,Correctivo,Combustible,Filtro de combustible,Alta,Contaminación,Ajuste y calibración,13,19551.55,2871,22422.55,Completado
+M00107,11,14,2024-01-03,29745.0,Preventivo,Transmisión,Clutch,Media,Sobrecalentamiento,Cambio preventivo,7,772.76,2334,3106.76,Completado
+M00108,11,8,2024-09-11,52765.0,Preventivo,Motor,Radiador,Crítica,Falta de lubricación,Lubricación,36,6145.95,862,7007.95,Completado
+M00109,11,13,2025-04-27,43391.0,Preventivo,Combustible,Filtro de combustible,Media,Desgaste de bomba,Revisión general,8,11432.79,855,12287.79,Pendiente
+M00110,11,5,2025-06-20,63532.0,Preventivo,Frenos,Discos de freno,Baja,Fuga de líquido,Inspección y ajuste,1,4749.22,2428,7177.22,Completado
+M00111,11,4,2025-08-26,92598.0,Preventivo,Frenos,Pastillas de freno,Baja,Desgaste por uso,Inspección y ajuste,3,9676.96,2145,11821.96,Completado
+M00112,11,3,2026-06-06,65468.0,Emergencia,Sistema eléctrico,Batería,Media,Mantenimiento preventivo,Reemplazo del componente,8,30064.26,3208,33272.26,Completado
+M00113,11,15,2026-06-08,30897.0,Correctivo,Transmisión,Caja de cambios,Baja,Fuga de aceite,Reemplazo del componente,4,1245.21,1436,2681.21,Completado
+M00114,11,8,2026-08-13,120772.0,Preventivo,Motor,Radiador,Crítica,Falta de lubricación,Cambio preventivo,40,10001.66,974,10975.66,Completado
+M00115,12,15,2024-03-07,106182.0,Emergencia,Transmisión,Caja de cambios,Media,Fuga de aceite,Ajuste y calibración,10,2037.19,3108,5145.19,Completado
+M00116,12,17,2024-05-10,166288.0,Preventivo,Sensores,Sensor de temperatura,Crítica,Mantenimiento preventivo,Cambio preventivo,52,5886.1,2832,8718.1,Completado
+M00117,12,13,2024-12-03,120703.0,Preventivo,Combustible,Filtro de combustible,Crítica,Desgaste de bomba,Lubricación,72,8843.06,693,9536.06,Completado
+M00118,12,7,2024-12-27,113837.0,Emergencia,Suspensión,Amortiguadores,Media,Desgaste de bujes,Reparación del componente,6,3532.35,3472,7004.35,Completado
+M00119,12,6,2024-12-28,116402.0,Preventivo,Suspensión,Neumáticos,Crítica,Fatiga del componente,Lubricación,55,7669.44,2634,10303.44,Completado
+M00120,12,19,2025-02-20,92471.0,Correctivo,Sistema eléctrico,Luces,Baja,Desgaste por uso,Cambio de pieza dañada,3,12786.46,2358,15144.46,Pendiente
+M00121,12,12,2025-03-03,96747.0,Emergencia,Motor,Filtro de aire,Baja,Fuga de aceite,Ajuste y calibración,4,9622.57,1787,11409.57,Pendiente
+M00122,12,14,2025-04-05,82080.0,Correctivo,Transmisión,Clutch,Media,Fuga de aceite,Reparación del componente,5,1280.68,3282,4562.68,Completado
+M00123,12,15,2025-09-22,148926.0,Preventivo,Transmisión,Caja de cambios,Alta,Desgaste de engranajes,Lubricación,29,866.52,1414,2280.52,Completado
+M00124,12,13,2025-10-12,65860.0,Correctivo,Combustible,Filtro de combustible,Media,Desgaste de bomba,Corrección de falla,10,15786.2,1909,17695.2,Pendiente
+M00125,12,10,2026-01-22,106489.0,Correctivo,Combustible,Bomba de combustible,Alta,Obstrucción,Reemplazo del componente,23,11355.34,3487,14842.34,Completado
+M00126,12,14,2026-01-24,140476.0,Emergencia,Transmisión,Clutch,Media,Desgaste por kilometraje,Cambio de pieza dañada,5,2236.77,3073,5309.77,Completado
+M00127,12,7,2026-02-27,117312.0,Preventivo,Suspensión,Amortiguadores,Crítica,Golpe por irregularidad del camino,Revisión general,52,1147.72,2551,3698.72,Completado
+M00128,12,4,2026-06-18,107737.0,Correctivo,Frenos,Pastillas de freno,Media,Desgaste de discos,Reparación del componente,9,26845.6,2589,29434.6,Completado
+M00129,12,5,2026-07-15,90594.0,Correctivo,Frenos,Discos de freno,Baja,Desgaste de discos,Cambio de pieza dañada,2,7679.8,2122,9801.8,Completado
+M00130,13,5,2022-02-06,1363.0,Preventivo,Frenos,Discos de freno,Alta,Desgaste por uso,Inspección y ajuste,15,4800.83,1819,6619.83,Completado
+M00131,13,15,2023-02-07,1063.0,Preventivo,Transmisión,Caja de cambios,Crítica,Falta de lubricación,Revisión general,45,1102.79,3170,4272.79,Pendiente
+M00132,13,15,2023-02-09,0.0,Preventivo,Transmisión,Caja de cambios,Baja,Sobrecalentamiento,Cambio preventivo,1,1031.12,2262,3293.12,Completado
+M00133,13,11,2023-06-21,21444.0,Preventivo,Combustible,Inyectores,Baja,Obstrucción,Inspección y ajuste,4,6965.99,2024,8989.99,Completado
+M00134,13,18,2024-03-31,0.0,Preventivo,Sensores,Sensor de presión,Alta,Falla eléctrica,Cambio preventivo,14,2011.91,2589,4600.91,Completado
+M00135,13,19,2024-07-29,0.0,Correctivo,Sistema eléctrico,Luces,Media,Mantenimiento preventivo,Cambio de pieza dañada,6,16128.93,601,16729.93,Pendiente
+M00136,13,18,2024-10-06,18593.0,Preventivo,Sensores,Sensor de presión,Media,Desgaste por uso,Inspección y ajuste,10,2809.48,1540,4349.48,Completado
+M00137,13,3,2024-11-05,0.0,Correctivo,Sistema eléctrico,Batería,Crítica,Mantenimiento preventivo,Reemplazo del componente,44,26247.11,838,27085.11,Completado
+M00138,13,7,2024-11-09,0.0,Correctivo,Suspensión,Amortiguadores,Crítica,Desgaste por uso,Reemplazo del componente,49,3510.67,1612,5122.67,Completado
+M00139,13,14,2024-11-16,42183.0,Preventivo,Transmisión,Clutch,Baja,Desgaste por kilometraje,Revisión general,2,755.31,2317,3072.31,Completado
+M00140,13,15,2025-06-26,12579.0,Preventivo,Transmisión,Caja de cambios,Media,Falta de lubricación,Cambio preventivo,7,1001.71,1226,2227.71,Completado
+M00141,13,17,2025-10-15,0.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla eléctrica,Ajuste del componente,4,4793.94,1682,6475.94,Completado
+M00142,13,1,2025-12-31,0.0,Preventivo,Motor,Motor,Media,Fuga de aceite,Ajuste del componente,10,9008.05,3483,12491.05,Completado
+M00143,14,12,2024-01-12,176216.0,Correctivo,Motor,Filtro de aire,Alta,Falta de lubricación,Corrección de falla,18,10221.15,2131,12352.15,Completado
+M00144,14,20,2024-02-14,150787.0,Emergencia,Escape,Sistema de escape,Baja,Desgaste por uso,Corrección de falla,4,32959.04,1247,34206.04,Completado
+M00145,14,7,2024-03-23,200185.0,Preventivo,Suspensión,Amortiguadores,Baja,Desgaste por uso,Inspección y ajuste,2,1911.1,839,2750.1,Completado
+M00146,14,20,2024-09-25,192346.0,Correctivo,Escape,Sistema de escape,Crítica,Mantenimiento preventivo,Reemplazo del componente,60,19508.44,2533,22041.44,Pendiente
+M00147,14,2,2024-11-06,112169.0,Preventivo,Sistema eléctrico,Alternador,Alta,Falla mecánica,Ajuste del componente,15,7066.19,3132,10198.19,Completado
+M00148,14,17,2024-12-21,179731.0,Preventivo,Sensores,Sensor de temperatura,Alta,Desgaste por uso,Cambio preventivo,18,5733.27,1438,7171.27,Completado
+M00149,14,14,2025-02-13,200497.0,Correctivo,Transmisión,Clutch,Baja,Desgaste por kilometraje,Corrección de falla,4,1054.55,3111,4165.55,Completado
+M00150,14,3,2025-04-15,122891.0,Emergencia,Sistema eléctrico,Batería,Alta,Falla eléctrica,Reemplazo del componente,13,27686.45,1889,29575.45,Completado
+M00151,14,4,2025-06-29,169205.0,Preventivo,Frenos,Pastillas de freno,Baja,Desgaste de discos,Inspección y ajuste,1,11321.11,2411,13732.11,Completado
+M00152,14,4,2025-07-13,194311.0,Preventivo,Frenos,Pastillas de freno,Media,Desgaste de discos,Lubricación,6,10418.84,2096,12514.84,Completado
+M00153,14,17,2025-12-07,200181.0,Emergencia,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Cambio de pieza dañada,1,14646.3,659,15305.3,Completado
+M00154,14,17,2026-08-07,190058.0,Preventivo,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Cambio preventivo,1,3647.52,1880,5527.52,Completado
+M00155,15,8,2018-05-12,47133.0,Emergencia,Motor,Radiador,Alta,Desgaste interno,Reparación del componente,28,18494.77,1295,19789.77,Pendiente
+M00156,15,15,2018-09-10,0.0,Correctivo,Transmisión,Caja de cambios,Crítica,Fuga de aceite,Reparación del componente,63,1697.93,3245,4942.93,Pendiente
+M00157,15,20,2019-04-30,0.0,Preventivo,Escape,Sistema de escape,Alta,Desgaste por uso,Ajuste del componente,27,11320.05,1785,13105.05,Completado
+M00158,15,2,2022-02-12,0.0,Preventivo,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Revisión general,12,12860.5,3328,16188.5,Completado
+M00159,15,10,2022-04-10,34502.0,Correctivo,Combustible,Bomba de combustible,Media,Falla de inyector,Ajuste y calibración,12,16867.78,2680,19547.78,Completado
+M00160,15,11,2022-06-09,0.0,Preventivo,Combustible,Inyectores,Baja,Desgaste de bomba,Lubricación,4,5826.12,2074,7900.12,Completado
+M00161,15,6,2022-07-21,23974.0,Correctivo,Suspensión,Neumáticos,Alta,Desgaste de bujes,Ajuste y calibración,25,9710.77,2485,12195.77,Completado
+M00162,15,16,2022-10-27,44049.0,Preventivo,Motor,Banda de distribución,Baja,Falta de lubricación,Cambio preventivo,3,12247.51,947,13194.51,Completado
+M00163,15,17,2024-01-15,43755.0,Preventivo,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Revisión general,2,5918.18,1935,7853.18,Completado
+M00164,15,15,2024-08-22,0.0,Emergencia,Transmisión,Caja de cambios,Media,Sobrecalentamiento,Corrección de falla,4,1774.83,983,2757.83,Completado
+M00165,15,11,2024-12-03,36083.0,Preventivo,Combustible,Inyectores,Baja,Obstrucción,Revisión general,4,10238.38,2757,12995.38,Pendiente
+M00166,15,8,2025-09-14,35609.0,Correctivo,Motor,Radiador,Media,Sobrecalentamiento,Ajuste y calibración,4,15673.03,2928,18601.03,Completado
+M00167,15,15,2026-02-06,31007.0,Preventivo,Transmisión,Caja de cambios,Baja,Falta de lubricación,Cambio preventivo,1,1130.19,1237,2367.19,Completado
+M00168,16,19,2020-11-03,30711.0,Preventivo,Sistema eléctrico,Luces,Media,Desgaste por uso,Revisión general,8,4840.51,3295,8135.51,Completado
+M00169,16,11,2020-11-10,11708.0,Correctivo,Combustible,Inyectores,Crítica,Desgaste de bomba,Reparación del componente,61,14048.15,1910,15958.15,Completado
+M00170,16,14,2021-10-29,0.0,Preventivo,Transmisión,Clutch,Baja,Desgaste por kilometraje,Cambio preventivo,4,921.68,2309,3230.68,Pendiente
+M00171,16,7,2022-09-15,69348.0,Correctivo,Suspensión,Amortiguadores,Crítica,Desgaste por uso,Reparación del componente,69,3754.44,1019,4773.44,Pendiente
+M00172,16,6,2023-02-08,0.0,Preventivo,Suspensión,Neumáticos,Alta,Desgaste de bujes,Ajuste del componente,14,7415.86,2059,9474.86,Completado
+M00173,16,17,2023-09-05,63588.0,Preventivo,Sensores,Sensor de temperatura,Crítica,Falla mecánica,Inspección y ajuste,32,4302.34,1759,6061.34,Pendiente
+M00174,16,16,2023-09-26,25856.0,Emergencia,Motor,Banda de distribución,Crítica,Fuga de aceite,Cambio de pieza dañada,34,37962.5,2933,40895.5,Completado
+M00175,16,5,2024-01-07,0.0,Correctivo,Frenos,Discos de freno,Baja,Desgaste de discos,Cambio de pieza dañada,3,11461.87,1106,12567.87,Completado
+M00176,16,2,2024-07-11,22476.0,Preventivo,Sistema eléctrico,Alternador,Media,Falla mecánica,Inspección y ajuste,6,11962.71,1915,13877.71,Completado
+M00177,16,19,2025-04-04,36565.0,Correctivo,Sistema eléctrico,Luces,Baja,Falla mecánica,Corrección de falla,4,15125.0,1091,16216.0,Completado
+M00178,16,7,2025-10-16,25971.0,Preventivo,Suspensión,Amortiguadores,Baja,Desgaste de bujes,Inspección y ajuste,1,1091.71,2772,3863.71,Completado
+M00179,16,2,2026-02-05,22798.0,Correctivo,Sistema eléctrico,Alternador,Baja,Falla mecánica,Reparación del componente,2,26268.12,2741,29009.12,Completado
+M00180,16,10,2026-08-01,12356.0,Preventivo,Combustible,Bomba de combustible,Baja,Falla de inyector,Cambio preventivo,3,7577.63,2395,9972.63,Completado
+M00181,17,14,2025-01-16,41736.0,Preventivo,Transmisión,Clutch,Media,Sobrecalentamiento,Lubricación,9,771.88,1399,2170.88,Completado
+M00182,17,5,2025-04-08,45166.0,Preventivo,Frenos,Discos de freno,Baja,Fuga de líquido,Ajuste del componente,2,3395.86,513,3908.86,Completado
+M00183,17,12,2025-04-19,61099.0,Correctivo,Motor,Filtro de aire,Alta,Desgaste por kilometraje,Corrección de falla,25,7170.19,1766,8936.19,Completado
+M00184,17,8,2025-06-27,50348.0,Correctivo,Motor,Radiador,Alta,Sobrecalentamiento,Reemplazo del componente,16,19118.69,2489,21607.69,Completado
+M00185,17,16,2025-08-30,131301.0,Preventivo,Motor,Banda de distribución,Media,Falta de lubricación,Inspección y ajuste,9,9278.73,534,9812.73,Completado
+M00186,17,3,2025-09-11,27907.0,Correctivo,Sistema eléctrico,Batería,Baja,Falla mecánica,Corrección de falla,4,21819.34,658,22477.34,Completado
+M00187,17,20,2025-10-23,38490.0,Correctivo,Escape,Sistema de escape,Media,Mantenimiento preventivo,Reemplazo del componente,5,22335.24,3079,25414.24,Completado
+M00188,17,6,2025-12-26,108387.0,Preventivo,Suspensión,Neumáticos,Media,Fatiga del componente,Lubricación,5,5520.32,3413,8933.32,Pendiente
+M00189,17,6,2026-05-05,122469.0,Emergencia,Suspensión,Neumáticos,Baja,Golpe por irregularidad del camino,Ajuste y calibración,4,18723.37,685,19408.37,Completado
+M00190,17,3,2026-05-15,83191.0,Preventivo,Sistema eléctrico,Batería,Alta,Falla eléctrica,Lubricación,15,13981.85,3414,17395.85,Pendiente
+M00191,17,16,2026-06-29,107105.0,Emergencia,Motor,Banda de distribución,Crítica,Falta de lubricación,Reemplazo del componente,68,38901.43,2840,41741.43,Completado
+M00192,17,1,2026-07-17,40297.0,Emergencia,Motor,Motor,Media,Fuga de aceite,Corrección de falla,12,26473.28,513,26986.28,Completado
+M00193,17,6,2026-07-31,78975.0,Emergencia,Suspensión,Neumáticos,Baja,Golpe por irregularidad del camino,Cambio de pieza dañada,3,14739.3,2540,17279.3,Completado
+M00194,18,15,2025-02-23,213456.0,Preventivo,Transmisión,Caja de cambios,Baja,Desgaste de engranajes,Lubricación,1,705.96,769,1474.96,Pendiente
+M00195,18,20,2025-09-04,240577.0,Emergencia,Escape,Sistema de escape,Baja,Desgaste por uso,Reemplazo del componente,1,32798.54,2299,35097.54,Pendiente
+M00196,18,7,2025-10-19,161741.0,Emergencia,Suspensión,Amortiguadores,Media,Desgaste de bujes,Reemplazo del componente,8,4162.88,2456,6618.88,Completado
+M00197,18,2,2025-10-27,179575.0,Correctivo,Sistema eléctrico,Alternador,Media,Falla eléctrica,Reparación del componente,7,16708.66,2425,19133.66,Completado
+M00198,18,19,2026-01-26,155425.0,Preventivo,Sistema eléctrico,Luces,Baja,Falla eléctrica,Cambio preventivo,1,4962.52,1543,6505.52,Completado
+M00199,19,20,2019-02-05,102037.0,Correctivo,Escape,Sistema de escape,Baja,Mantenimiento preventivo,Cambio de pieza dañada,2,28394.05,625,29019.05,Completado
+M00200,19,3,2019-07-01,99812.0,Preventivo,Sistema eléctrico,Batería,Baja,Falla eléctrica,Revisión general,4,8255.59,1817,10072.59,Pendiente
+M00201,19,13,2019-12-26,201241.0,Preventivo,Combustible,Filtro de combustible,Baja,Falla de inyector,Revisión general,3,6510.67,2533,9043.67,Pendiente
+M00202,19,3,2022-01-07,95034.0,Emergencia,Sistema eléctrico,Batería,Alta,Falla eléctrica,Reparación del componente,22,35076.61,1698,36774.61,Completado
+M00203,19,2,2022-01-17,181622.0,Preventivo,Sistema eléctrico,Alternador,Baja,Desgaste por uso,Cambio preventivo,4,10738.81,802,11540.81,Pendiente
+M00204,19,4,2022-03-06,104335.0,Preventivo,Frenos,Pastillas de freno,Crítica,Fuga de líquido,Revisión general,71,14420.23,1810,16230.23,Completado
+M00205,19,8,2022-07-19,136142.0,Preventivo,Motor,Radiador,Crítica,Desgaste interno,Inspección y ajuste,32,9126.77,1509,10635.77,Completado
+M00206,19,8,2024-07-21,87195.0,Preventivo,Motor,Radiador,Alta,Desgaste por kilometraje,Ajuste del componente,22,7039.23,3136,10175.23,Completado
+M00207,19,9,2024-08-28,113962.0,Correctivo,Motor,Bomba de agua,Crítica,Desgaste interno,Cambio de pieza dañada,41,1885.18,518,2403.18,Completado
+M00208,20,18,2018-02-03,18844.0,Preventivo,Sensores,Sensor de presión,Baja,Desgaste por uso,Cambio preventivo,2,1634.05,2838,4472.05,Completado
+M00209,20,13,2018-09-16,2234.0,Emergencia,Combustible,Filtro de combustible,Crítica,Fuga,Reparación del componente,44,23965.99,3489,27454.99,Pendiente
+M00210,20,9,2018-09-27,0.0,Preventivo,Motor,Bomba de agua,Crítica,Desgaste interno,Lubricación,28,550.87,1677,2227.87,Pendiente
+M00211,20,17,2018-10-14,0.0,Correctivo,Sensores,Sensor de temperatura,Media,Mantenimiento preventivo,Reparación del componente,9,12452.33,542,12994.33,Pendiente
+M00212,20,8,2019-11-05,3175.0,Preventivo,Motor,Radiador,Media,Fuga de aceite,Ajuste del componente,8,7977.67,906,8883.67,Completado
+M00213,20,19,2020-11-18,0.0,Preventivo,Sistema eléctrico,Luces,Media,Falla eléctrica,Cambio preventivo,9,10243.72,823,11066.72,Completado
+M00214,20,1,2021-04-11,20620.0,Emergencia,Motor,Motor,Alta,Desgaste interno,Corrección de falla,26,23451.97,872,24323.97,Completado
+M00215,20,19,2024-01-21,0.0,Preventivo,Sistema eléctrico,Luces,Media,Falla mecánica,Lubricación,7,6284.27,501,6785.27,Completado
+M00216,20,4,2024-05-18,0.0,Emergencia,Frenos,Pastillas de freno,Media,Fuga de líquido,Reemplazo del componente,10,36137.23,1562,37699.23,Completado
+M00217,20,13,2024-08-07,0.0,Correctivo,Combustible,Filtro de combustible,Baja,Falla de inyector,Reemplazo del componente,2,12892.74,1975,14867.74,Pendiente
+M00218,20,2,2026-03-31,0.0,Correctivo,Sistema eléctrico,Alternador,Baja,Falla eléctrica,Cambio de pieza dañada,2,21611.76,2688,24299.76,Completado
+M00219,21,15,2025-03-11,54481.0,Correctivo,Transmisión,Caja de cambios,Media,Falta de lubricación,Reparación del componente,10,1975.13,3078,5053.13,Completado
+M00220,21,4,2025-03-21,94111.0,Preventivo,Frenos,Pastillas de freno,Media,Fuga de líquido,Cambio preventivo,4,13694.77,1962,15656.77,Pendiente
+M00221,21,17,2025-05-05,79060.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla eléctrica,Cambio preventivo,3,3362.82,1161,4523.82,Pendiente
+M00222,21,16,2025-05-25,132379.0,Preventivo,Motor,Banda de distribución,Baja,Desgaste por kilometraje,Inspección y ajuste,2,12753.96,1600,14353.96,Completado
+M00223,21,17,2025-08-03,65574.0,Preventivo,Sensores,Sensor de temperatura,Alta,Falla mecánica,Inspección y ajuste,18,5060.4,2077,7137.4,Completado
+M00224,21,1,2025-08-26,121125.0,Preventivo,Motor,Motor,Media,Sobrecalentamiento,Revisión general,10,8240.84,1741,9981.84,Completado
+M00225,21,7,2025-10-08,86213.0,Correctivo,Suspensión,Amortiguadores,Alta,Desgaste por uso,Ajuste y calibración,12,3029.1,2422,5451.1,Completado
+M00226,21,3,2025-10-25,87352.0,Preventivo,Sistema eléctrico,Batería,Media,Desgaste por uso,Ajuste del componente,8,7607.34,3375,10982.34,Completado
+M00227,21,17,2026-03-20,85798.0,Correctivo,Sensores,Sensor de temperatura,Crítica,Mantenimiento preventivo,Reparación del componente,45,10441.78,2928,13369.78,Completado
+M00228,21,14,2026-04-13,41030.0,Correctivo,Transmisión,Clutch,Baja,Desgaste por kilometraje,Corrección de falla,4,1387.51,2901,4288.51,Completado
+M00229,21,12,2026-04-26,110988.0,Correctivo,Motor,Filtro de aire,Alta,Fuga de aceite,Reparación del componente,27,9989.81,2834,12823.81,Completado
+M00230,21,19,2026-05-01,90973.0,Emergencia,Sistema eléctrico,Luces,Baja,Falla eléctrica,Corrección de falla,4,19153.82,1156,20309.82,Completado
+M00231,21,20,2026-08-07,56845.0,Emergencia,Escape,Sistema de escape,Alta,Falla eléctrica,Corrección de falla,16,25599.02,3174,28773.02,Pendiente
+M00232,22,8,2019-05-15,68875.0,Correctivo,Motor,Radiador,Crítica,Desgaste interno,Reparación del componente,56,12105.56,3056,15161.56,Completado
+M00233,22,16,2019-09-19,52459.0,Preventivo,Motor,Banda de distribución,Baja,Fuga de aceite,Cambio preventivo,1,9450.62,2510,11960.62,Completado
+M00234,22,16,2019-12-17,52009.0,Correctivo,Motor,Banda de distribución,Crítica,Falta de lubricación,Ajuste y calibración,45,18861.69,810,19671.69,Completado
+M00235,22,7,2021-11-07,0.0,Emergencia,Suspensión,Amortiguadores,Media,Holgura,Reparación del componente,4,4486.68,989,5475.68,Completado
+M00236,22,20,2022-08-16,11087.0,Preventivo,Escape,Sistema de escape,Alta,Falla eléctrica,Ajuste del componente,14,13064.29,2193,15257.29,Completado
+M00237,22,18,2023-01-08,81323.0,Preventivo,Sensores,Sensor de presión,Alta,Falla eléctrica,Ajuste del componente,29,2394.42,3406,5800.42,Completado
+M00238,22,20,2023-02-21,13524.0,Preventivo,Escape,Sistema de escape,Baja,Falla mecánica,Inspección y ajuste,4,14289.44,2800,17089.44,Completado
+M00239,22,5,2024-02-28,0.0,Emergencia,Frenos,Discos de freno,Crítica,Desgaste por uso,Reemplazo del componente,29,17230.18,3446,20676.18,Completado
+M00240,22,4,2024-06-09,0.0,Correctivo,Frenos,Pastillas de freno,Baja,Desgaste por uso,Cambio de pieza dañada,4,19954.54,1463,21417.54,Pendiente
+M00241,22,2,2025-04-04,13774.0,Correctivo,Sistema eléctrico,Alternador,Media,Desgaste por uso,Cambio de pieza dañada,9,25012.39,1345,26357.39,Completado
+M00242,22,9,2025-05-03,0.0,Emergencia,Motor,Bomba de agua,Baja,Desgaste interno,Ajuste y calibración,1,2083.54,3014,5097.54,Completado
+M00243,22,17,2026-02-07,32367.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla mecánica,Inspección y ajuste,4,3506.09,1189,4695.09,Completado
+M00244,23,5,2020-08-25,76481.0,Correctivo,Frenos,Discos de freno,Baja,Fuga de líquido,Corrección de falla,1,8431.63,2138,10569.63,Pendiente
+M00245,23,20,2021-02-03,110921.0,Correctivo,Escape,Sistema de escape,Media,Mantenimiento preventivo,Corrección de falla,8,21267.6,921,22188.6,Completado
+M00246,23,14,2021-05-07,26558.0,Emergencia,Transmisión,Clutch,Alta,Desgaste de engranajes,Cambio de pieza dañada,25,1909.93,2702,4611.93,Completado
+M00247,23,7,2023-06-14,60295.0,Emergencia,Suspensión,Amortiguadores,Alta,Fatiga del componente,Cambio de pieza dañada,26,3406.1,2952,6358.1,Completado
+M00248,23,1,2024-03-31,62904.0,Preventivo,Motor,Motor,Alta,Desgaste por kilometraje,Revisión general,24,11914.66,2760,14674.66,Completado
+M00249,23,18,2025-03-20,122661.0,Preventivo,Sensores,Sensor de presión,Alta,Desgaste por uso,Ajuste del componente,28,1868.39,663,2531.39,Completado
+M00250,23,2,2026-04-02,94032.0,Correctivo,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Corrección de falla,7,16017.46,3057,19074.46,Completado
+M00251,24,16,2025-01-10,40131.0,Preventivo,Motor,Banda de distribución,Baja,Desgaste por kilometraje,Lubricación,1,7939.03,1071,9010.03,Completado
+M00252,24,10,2025-02-14,37497.0,Preventivo,Combustible,Bomba de combustible,Media,Contaminación,Inspección y ajuste,9,7700.46,1258,8958.46,Completado
+M00253,24,4,2025-03-14,47985.0,Preventivo,Frenos,Pastillas de freno,Media,Desgaste por uso,Revisión general,4,15208.65,3128,18336.65,Pendiente
+M00254,24,12,2025-03-29,108483.0,Correctivo,Motor,Filtro de aire,Baja,Sobrecalentamiento,Cambio de pieza dañada,1,6570.88,907,7477.88,Pendiente
+M00255,24,4,2025-04-20,134841.0,Correctivo,Frenos,Pastillas de freno,Baja,Fuga de líquido,Ajuste y calibración,3,29939.23,935,30874.23,Pendiente
+M00256,24,18,2025-06-03,114751.0,Preventivo,Sensores,Sensor de presión,Media,Falla mecánica,Lubricación,11,2338.09,1272,3610.09,Completado
+M00257,24,8,2025-07-07,109563.0,Correctivo,Motor,Radiador,Baja,Desgaste por kilometraje,Corrección de falla,1,13846.18,3010,16856.18,Completado
+M00258,24,13,2025-07-11,85147.0,Correctivo,Combustible,Filtro de combustible,Crítica,Obstrucción,Cambio de pieza dañada,33,17539.37,716,18255.37,Pendiente
+M00259,24,4,2025-08-22,84942.0,Correctivo,Frenos,Pastillas de freno,Media,Desgaste de discos,Ajuste y calibración,5,26937.81,1280,28217.81,Completado
+M00260,24,17,2025-11-11,99707.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla eléctrica,Ajuste del componente,2,4841.34,2188,7029.34,Completado
+M00261,24,13,2026-02-09,142246.0,Preventivo,Combustible,Filtro de combustible,Baja,Falla de inyector,Cambio preventivo,4,6060.18,2503,8563.18,Completado
+M00262,24,19,2026-02-22,113866.0,Preventivo,Sistema eléctrico,Luces,Alta,Falla eléctrica,Inspección y ajuste,18,6549.3,2067,8616.3,Pendiente
+M00263,25,11,2019-04-22,53898.0,Preventivo,Combustible,Inyectores,Crítica,Desgaste de bomba,Lubricación,36,8177.56,3081,11258.56,Completado
+M00264,25,20,2019-09-08,56879.0,Correctivo,Escape,Sistema de escape,Alta,Falla eléctrica,Ajuste y calibración,26,28574.58,782,29356.58,Completado
+M00265,25,19,2020-07-04,108856.0,Correctivo,Sistema eléctrico,Luces,Alta,Falla mecánica,Ajuste y calibración,14,16130.02,2968,19098.02,Completado
+M00266,25,17,2022-02-19,8055.0,Correctivo,Sensores,Sensor de temperatura,Crítica,Falla eléctrica,Reparación del componente,70,12427.78,1804,14231.78,Completado
+M00267,25,13,2022-08-07,62944.0,Preventivo,Combustible,Filtro de combustible,Media,Contaminación,Lubricación,6,7114.16,948,8062.16,Completado
+M00268,25,20,2023-01-06,78414.0,Preventivo,Escape,Sistema de escape,Baja,Falla mecánica,Lubricación,3,12145.5,2849,14994.5,Completado
+M00269,25,2,2023-03-30,27711.0,Correctivo,Sistema eléctrico,Alternador,Baja,Mantenimiento preventivo,Corrección de falla,2,24664.79,3145,27809.79,Completado
+M00270,25,17,2023-07-27,92737.0,Emergencia,Sensores,Sensor de temperatura,Crítica,Desgaste por uso,Ajuste y calibración,54,16831.14,3134,19965.14,Completado
+M00271,25,13,2024-07-26,9055.0,Preventivo,Combustible,Filtro de combustible,Media,Contaminación,Cambio preventivo,9,10500.46,1543,12043.46,Completado
+M00272,25,14,2024-07-30,33965.0,Correctivo,Transmisión,Clutch,Crítica,Fuga de aceite,Corrección de falla,33,1153.54,2523,3676.54,Pendiente
+M00273,25,5,2024-12-28,52946.0,Preventivo,Frenos,Discos de freno,Alta,Fuga de líquido,Cambio preventivo,25,4973.82,3130,8103.82,Pendiente
+M00274,25,2,2026-05-01,105967.0,Correctivo,Sistema eléctrico,Alternador,Baja,Falla eléctrica,Reparación del componente,4,14812.73,3447,18259.73,Completado
+M00275,25,19,2026-07-26,52007.0,Preventivo,Sistema eléctrico,Luces,Media,Falla eléctrica,Revisión general,6,6580.32,559,7139.32,Pendiente
+M00276,26,19,2020-01-03,87684.0,Preventivo,Sistema eléctrico,Luces,Media,Falla eléctrica,Revisión general,9,9042.26,1470,10512.26,Completado
+M00277,26,9,2020-05-14,112928.0,Preventivo,Motor,Bomba de agua,Crítica,Desgaste interno,Ajuste del componente,38,593.95,2275,2868.95,Completado
+M00278,26,17,2021-09-19,55406.0,Preventivo,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Lubricación,2,5636.74,2028,7664.74,Completado
+M00279,26,16,2022-02-19,54358.0,Correctivo,Motor,Banda de distribución,Media,Desgaste por kilometraje,Reemplazo del componente,9,25002.05,2801,27803.05,Completado
+M00280,26,3,2022-05-08,101408.0,Correctivo,Sistema eléctrico,Batería,Media,Desgaste por uso,Cambio de pieza dañada,6,27933.89,1949,29882.89,Completado
+M00281,26,3,2022-09-30,49002.0,Correctivo,Sistema eléctrico,Batería,Media,Desgaste por uso,Reparación del componente,9,22758.06,1203,23961.06,Pendiente
+M00282,26,4,2022-10-05,67890.0,Emergencia,Frenos,Pastillas de freno,Baja,Pérdida de presión,Reemplazo del componente,2,39783.58,3339,43122.58,Completado
+M00283,26,11,2023-01-15,125688.0,Emergencia,Combustible,Inyectores,Media,Falla de inyector,Cambio de pieza dañada,7,23803.79,2119,25922.79,Completado
+M00284,26,7,2023-01-21,59436.0,Correctivo,Suspensión,Amortiguadores,Baja,Desgaste de bujes,Reparación del componente,2,2782.74,662,3444.74,Pendiente
+M00285,26,18,2023-07-21,129766.0,Emergencia,Sensores,Sensor de presión,Baja,Desgaste por uso,Corrección de falla,1,4524.51,1081,5605.51,Pendiente
+M00286,26,10,2024-07-04,144058.0,Preventivo,Combustible,Bomba de combustible,Media,Fuga,Lubricación,7,4913.61,1374,6287.61,Completado
+M00287,26,10,2025-04-03,47380.0,Preventivo,Combustible,Bomba de combustible,Crítica,Fuga,Revisión general,71,4853.29,1671,6524.29,Completado
+M00288,26,12,2026-07-14,142094.0,Preventivo,Motor,Filtro de aire,Media,Desgaste por kilometraje,Cambio preventivo,8,5947.01,2861,8808.01,Completado
+M00289,26,13,2026-07-31,144416.0,Preventivo,Combustible,Filtro de combustible,Alta,Obstrucción,Inspección y ajuste,23,11791.67,870,12661.67,Completado
+M00290,27,18,2018-02-18,0.0,Preventivo,Sensores,Sensor de presión,Crítica,Falla mecánica,Revisión general,44,2052.58,3157,5209.58,Completado
+M00291,27,20,2020-12-31,4197.0,Emergencia,Escape,Sistema de escape,Baja,Falla mecánica,Corrección de falla,3,30366.58,2403,32769.58,Pendiente
+M00292,27,12,2021-03-08,21053.0,Emergencia,Motor,Filtro de aire,Media,Sobrecalentamiento,Cambio de pieza dañada,4,9336.89,1110,10446.89,Pendiente
+M00293,27,9,2021-07-28,38897.0,Preventivo,Motor,Bomba de agua,Media,Desgaste interno,Ajuste del componente,8,610.49,2178,2788.49,Pendiente
+M00294,27,6,2021-12-11,42206.0,Emergencia,Suspensión,Neumáticos,Media,Holgura,Reparación del componente,4,19287.06,3227,22514.06,Completado
+M00295,27,4,2023-09-04,46182.0,Emergencia,Frenos,Pastillas de freno,Media,Fuga de líquido,Corrección de falla,9,35649.17,2077,37726.17,Completado
+M00296,27,18,2023-10-16,0.0,Preventivo,Sensores,Sensor de presión,Media,Falla mecánica,Ajuste del componente,11,2832.63,3256,6088.63,Completado
+M00297,27,13,2023-11-08,0.0,Correctivo,Combustible,Filtro de combustible,Media,Obstrucción,Reemplazo del componente,10,18632.52,984,19616.52,Completado
+M00298,27,16,2023-12-05,62859.0,Emergencia,Motor,Banda de distribución,Baja,Falta de lubricación,Ajuste y calibración,2,34001.3,967,34968.3,Completado
+M00299,27,1,2024-02-21,67932.0,Preventivo,Motor,Motor,Media,Falta de lubricación,Revisión general,4,9495.98,539,10034.98,Pendiente
+M00300,27,19,2024-08-24,1987.0,Correctivo,Sistema eléctrico,Luces,Media,Desgaste por uso,Corrección de falla,12,11412.72,2913,14325.72,Completado
+M00301,27,2,2025-12-30,37978.0,Emergencia,Sistema eléctrico,Alternador,Baja,Falla eléctrica,Cambio de pieza dañada,2,22971.31,2410,25381.31,Completado
+M00302,27,7,2026-05-02,43660.0,Correctivo,Suspensión,Amortiguadores,Media,Fatiga del componente,Reemplazo del componente,8,2496.74,746,3242.74,Completado
+M00303,28,15,2024-01-31,0.0,Correctivo,Transmisión,Caja de cambios,Media,Fuga de aceite,Ajuste y calibración,5,1943.32,764,2707.32,Pendiente
+M00304,28,6,2024-07-19,0.0,Correctivo,Suspensión,Neumáticos,Baja,Golpe por irregularidad del camino,Cambio de pieza dañada,1,12187.06,3490,15677.06,Pendiente
+M00305,28,16,2025-06-03,27888.0,Preventivo,Motor,Banda de distribución,Crítica,Sobrecalentamiento,Revisión general,71,12112.28,975,13087.28,Pendiente
+M00306,28,12,2026-01-28,2919.0,Preventivo,Motor,Filtro de aire,Crítica,Desgaste por kilometraje,Cambio preventivo,64,3112.54,2198,5310.54,Completado
+M00307,28,20,2026-04-20,0.0,Preventivo,Escape,Sistema de escape,Baja,Falla eléctrica,Inspección y ajuste,2,12188.58,2826,15014.58,Completado
+M00308,29,12,2021-03-04,115989.0,Preventivo,Motor,Filtro de aire,Media,Falta de lubricación,Cambio preventivo,8,3665.3,2338,6003.3,Completado
+M00309,29,7,2021-05-01,155168.0,Correctivo,Suspensión,Amortiguadores,Alta,Desgaste de bujes,Reemplazo del componente,18,3951.17,2519,6470.17,Completado
+M00310,29,16,2021-07-09,153659.0,Correctivo,Motor,Banda de distribución,Alta,Falta de lubricación,Corrección de falla,13,26220.15,1145,27365.15,Completado
+M00311,29,9,2021-07-17,99984.0,Emergencia,Motor,Bomba de agua,Media,Sobrecalentamiento,Reemplazo del componente,7,1779.0,2546,4325.0,Completado
+M00312,29,13,2021-12-21,150619.0,Emergencia,Combustible,Filtro de combustible,Baja,Obstrucción,Reemplazo del componente,3,27866.71,3494,31360.71,Pendiente
+M00313,29,5,2022-03-31,192947.0,Correctivo,Frenos,Discos de freno,Alta,Desgaste de pastillas,Corrección de falla,30,12122.67,2159,14281.67,Completado
+M00314,29,13,2022-05-21,152074.0,Emergencia,Combustible,Filtro de combustible,Alta,Contaminación,Reemplazo del componente,20,21125.1,3483,24608.1,Pendiente
+M00315,29,7,2022-09-19,108921.0,Correctivo,Suspensión,Amortiguadores,Baja,Golpe por irregularidad del camino,Reemplazo del componente,2,2686.1,2262,4948.1,Pendiente
+M00316,29,20,2022-12-26,189100.0,Preventivo,Escape,Sistema de escape,Media,Mantenimiento preventivo,Revisión general,10,14553.38,2121,16674.38,Completado
+M00317,29,18,2024-05-04,149643.0,Preventivo,Sensores,Sensor de presión,Crítica,Mantenimiento preventivo,Revisión general,44,2882.97,1278,4160.97,Completado
+M00318,29,13,2024-12-26,196098.0,Correctivo,Combustible,Filtro de combustible,Alta,Desgaste de bomba,Corrección de falla,20,17486.3,2544,20030.3,Completado
+M00319,29,9,2025-02-14,92326.0,Preventivo,Motor,Bomba de agua,Baja,Desgaste por kilometraje,Ajuste del componente,4,750.62,842,1592.62,Completado
+M00320,29,18,2025-03-27,115281.0,Preventivo,Sensores,Sensor de presión,Media,Falla mecánica,Ajuste del componente,6,2251.57,905,3156.57,Completado
+M00321,29,1,2025-04-02,185719.0,Correctivo,Motor,Motor,Media,Desgaste interno,Corrección de falla,7,14653.36,1978,16631.36,Completado
+M00322,29,3,2026-05-27,203756.0,Preventivo,Sistema eléctrico,Batería,Crítica,Mantenimiento preventivo,Inspección y ajuste,64,12403.95,2507,14910.95,Pendiente
+M00323,30,9,2022-05-26,0.0,Correctivo,Motor,Bomba de agua,Baja,Sobrecalentamiento,Corrección de falla,1,1694.74,641,2335.74,Pendiente
+M00324,30,18,2022-08-07,532.0,Preventivo,Sensores,Sensor de presión,Alta,Desgaste por uso,Cambio preventivo,19,1277.0,2596,3873.0,Pendiente
+M00325,30,1,2023-02-24,0.0,Correctivo,Motor,Motor,Baja,Falta de lubricación,Reparación del componente,4,18181.12,840,19021.12,Completado
+M00326,30,5,2023-10-07,3825.0,Emergencia,Frenos,Discos de freno,Crítica,Desgaste de pastillas,Reemplazo del componente,64,11148.86,1867,13015.86,Pendiente
+M00327,30,8,2024-01-17,0.0,Correctivo,Motor,Radiador,Media,Sobrecalentamiento,Ajuste y calibración,6,20710.37,682,21392.37,Completado
+M00328,30,3,2024-03-30,10578.0,Emergencia,Sistema eléctrico,Batería,Alta,Desgaste por uso,Cambio de pieza dañada,19,30571.63,518,31089.63,Completado
+M00329,30,14,2024-07-25,0.0,Correctivo,Transmisión,Clutch,Media,Fuga de aceite,Corrección de falla,10,1717.04,2452,4169.04,Completado
+M00330,30,20,2025-08-25,0.0,Correctivo,Escape,Sistema de escape,Baja,Falla eléctrica,Corrección de falla,3,16298.75,2978,19276.75,Completado
+M00331,30,15,2026-05-09,0.0,Preventivo,Transmisión,Caja de cambios,Baja,Sobrecalentamiento,Cambio preventivo,1,917.22,3186,4103.22,Completado
+M00332,30,1,2026-05-17,0.0,Correctivo,Motor,Motor,Media,Desgaste por kilometraje,Reparación del componente,12,14061.12,831,14892.12,Completado
+M00333,30,10,2026-05-29,3128.0,Correctivo,Combustible,Bomba de combustible,Baja,Fuga,Reparación del componente,2,14473.89,2342,16815.89,Completado
+M00334,31,13,2021-07-16,107908.0,Preventivo,Combustible,Filtro de combustible,Baja,Falla de inyector,Lubricación,1,8516.52,2782,11298.52,Completado
+M00335,31,4,2022-01-09,150184.0,Correctivo,Frenos,Pastillas de freno,Crítica,Desgaste de pastillas,Reemplazo del componente,47,25129.53,722,25851.53,Completado
+M00336,31,20,2022-10-03,207548.0,Correctivo,Escape,Sistema de escape,Alta,Falla mecánica,Reemplazo del componente,24,20966.86,2181,23147.86,Completado
+M00337,31,19,2023-04-02,189035.0,Emergencia,Sistema eléctrico,Luces,Baja,Falla mecánica,Corrección de falla,3,20040.71,2389,22429.71,Pendiente
+M00338,31,9,2023-05-02,110380.0,Preventivo,Motor,Bomba de agua,Media,Falta de lubricación,Lubricación,4,921.56,1641,2562.56,Pendiente
+M00339,31,13,2024-09-26,185730.0,Correctivo,Combustible,Filtro de combustible,Alta,Falla de inyector,Corrección de falla,26,19967.23,2091,22058.23,Completado
+M00340,31,14,2024-12-28,207765.0,Correctivo,Transmisión,Clutch,Baja,Sobrecalentamiento,Ajuste y calibración,3,1003.67,2511,3514.67,Completado
+M00341,31,7,2025-01-30,108545.0,Preventivo,Suspensión,Amortiguadores,Baja,Desgaste por uso,Ajuste del componente,2,1744.88,1075,2819.88,Pendiente
+M00342,31,15,2025-08-16,207624.0,Correctivo,Transmisión,Caja de cambios,Crítica,Desgaste por kilometraje,Ajuste y calibración,28,1271.24,2148,3419.24,Completado
+M00343,31,11,2025-12-19,117388.0,Preventivo,Combustible,Inyectores,Alta,Falla de inyector,Cambio preventivo,21,10574.21,2537,13111.21,Completado
+M00344,32,11,2021-03-14,40831.0,Emergencia,Combustible,Inyectores,Media,Fuga,Reemplazo del componente,7,27413.15,2748,30161.15,Completado
+M00345,32,6,2021-09-08,109270.0,Emergencia,Suspensión,Neumáticos,Media,Holgura,Cambio de pieza dañada,9,15773.21,2852,18625.21,Completado
+M00346,32,12,2021-11-05,102937.0,Preventivo,Motor,Filtro de aire,Media,Falta de lubricación,Revisión general,4,5031.48,1939,6970.48,Completado
+M00347,32,6,2023-07-05,112368.0,Correctivo,Suspensión,Neumáticos,Alta,Desgaste de bujes,Corrección de falla,12,11461.48,858,12319.48,Completado
+M00348,32,6,2023-11-12,54028.0,Correctivo,Suspensión,Neumáticos,Media,Holgura,Cambio de pieza dañada,6,11081.65,3413,14494.65,Completado
+M00349,32,10,2024-01-02,12051.0,Preventivo,Combustible,Bomba de combustible,Media,Fuga,Revisión general,6,7218.35,1737,8955.35,Completado
+M00350,32,13,2024-02-17,21738.0,Correctivo,Combustible,Filtro de combustible,Media,Contaminación,Ajuste y calibración,6,17672.74,3160,20832.74,Completado
+M00351,32,10,2024-05-31,108876.0,Preventivo,Combustible,Bomba de combustible,Media,Contaminación,Ajuste del componente,10,4867.57,2793,7660.57,Completado
+M00352,32,19,2025-12-20,46413.0,Preventivo,Sistema eléctrico,Luces,Media,Desgaste por uso,Cambio preventivo,4,10301.19,1517,11818.19,Completado
+M00353,32,2,2026-05-05,56391.0,Preventivo,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Lubricación,10,10112.2,1363,11475.2,Pendiente
+M00354,33,15,2022-01-11,110389.0,Preventivo,Transmisión,Caja de cambios,Media,Desgaste de engranajes,Revisión general,10,871.85,2546,3417.85,Completado
+M00355,33,5,2022-07-05,124563.0,Preventivo,Frenos,Discos de freno,Media,Desgaste por uso,Cambio preventivo,11,6420.02,2884,9304.02,Completado
+M00356,33,17,2023-07-15,20951.0,Emergencia,Sensores,Sensor de temperatura,Media,Falla eléctrica,Reparación del componente,10,15863.82,1442,17305.82,Pendiente
+M00357,33,5,2023-07-28,95905.0,Emergencia,Frenos,Discos de freno,Alta,Pérdida de presión,Corrección de falla,27,11481.42,3453,14934.42,Completado
+M00358,33,2,2023-08-10,73926.0,Preventivo,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Cambio preventivo,6,12513.1,556,13069.1,Completado
+M00359,33,2,2024-01-05,120989.0,Preventivo,Sistema eléctrico,Alternador,Baja,Mantenimiento preventivo,Ajuste del componente,1,6308.38,1041,7349.38,Completado
+M00360,33,14,2024-02-21,46423.0,Correctivo,Transmisión,Clutch,Baja,Fuga de aceite,Reemplazo del componente,4,1815.97,2267,4082.97,Completado
+M00361,33,16,2024-07-07,56610.0,Preventivo,Motor,Banda de distribución,Media,Sobrecalentamiento,Lubricación,12,8052.31,3250,11302.31,Completado
+M00362,33,12,2024-08-24,112769.0,Emergencia,Motor,Filtro de aire,Media,Sobrecalentamiento,Cambio de pieza dañada,5,13886.82,1409,15295.82,Completado
+M00363,33,7,2025-01-20,51772.0,Preventivo,Suspensión,Amortiguadores,Media,Fatiga del componente,Ajuste del componente,9,1612.26,2180,3792.26,Completado
+M00364,34,2,2023-01-28,73406.0,Preventivo,Sistema eléctrico,Alternador,Media,Mantenimiento preventivo,Cambio preventivo,10,7407.55,1473,8880.55,Completado
+M00365,34,18,2023-03-19,23124.0,Correctivo,Sensores,Sensor de presión,Alta,Falla eléctrica,Cambio de pieza dañada,24,4510.2,3460,7970.2,Completado
+M00366,34,7,2023-10-17,0.0,Correctivo,Suspensión,Amortiguadores,Media,Desgaste por uso,Reparación del componente,10,3985.41,2578,6563.41,Completado
+M00367,34,8,2025-09-11,65793.0,Correctivo,Motor,Radiador,Crítica,Desgaste interno,Corrección de falla,51,17137.85,659,17796.85,Completado
+M00368,34,12,2026-02-09,0.0,Emergencia,Motor,Filtro de aire,Crítica,Desgaste interno,Reparación del componente,35,13359.92,1994,15353.92,Completado
+M00369,34,6,2026-03-01,11465.0,Preventivo,Suspensión,Neumáticos,Media,Desgaste por uso,Inspección y ajuste,5,3396.21,1964,5360.21,Completado
+M00370,35,8,2022-05-04,81858.0,Preventivo,Motor,Radiador,Media,Desgaste interno,Inspección y ajuste,6,11357.95,3458,14815.95,Completado
+M00371,35,11,2022-05-27,69781.0,Correctivo,Combustible,Inyectores,Media,Contaminación,Corrección de falla,4,15804.27,970,16774.27,Completado
+M00372,35,19,2022-07-07,84495.0,Preventivo,Sistema eléctrico,Luces,Baja,Falla eléctrica,Ajuste del componente,1,8640.04,734,9374.04,Completado
+M00373,35,13,2022-07-09,103368.0,Preventivo,Combustible,Filtro de combustible,Media,Obstrucción,Cambio preventivo,6,5951.44,2236,8187.44,Pendiente
+M00374,35,2,2022-09-03,161217.0,Correctivo,Sistema eléctrico,Alternador,Baja,Desgaste por uso,Reemplazo del componente,4,26012.09,2025,28037.09,Completado
+M00375,35,5,2023-12-08,173370.0,Preventivo,Frenos,Discos de freno,Crítica,Pérdida de presión,Revisión general,64,3280.18,1372,4652.18,Completado
+M00376,35,15,2024-10-01,152071.0,Correctivo,Transmisión,Caja de cambios,Alta,Sobrecalentamiento,Ajuste y calibración,20,1342.01,3445,4787.01,Completado
+M00377,35,17,2024-10-10,102329.0,Emergencia,Sensores,Sensor de temperatura,Baja,Mantenimiento preventivo,Reemplazo del componente,2,15723.27,2378,18101.27,Pendiente
+M00378,35,20,2025-08-27,116234.0,Correctivo,Escape,Sistema de escape,Baja,Falla eléctrica,Corrección de falla,1,24232.83,2873,27105.83,Pendiente
+M00379,35,2,2025-10-17,104642.0,Emergencia,Sistema eléctrico,Alternador,Crítica,Desgaste por uso,Reparación del componente,72,26445.15,734,27179.15,Completado
+M00380,35,10,2026-01-04,116728.0,Correctivo,Combustible,Bomba de combustible,Alta,Fuga,Corrección de falla,28,16512.67,2315,18827.67,Completado
+M00381,35,16,2026-02-10,71843.0,Preventivo,Motor,Banda de distribución,Media,Desgaste por kilometraje,Ajuste del componente,9,10298.13,2658,12956.13,Pendiente
+M00382,36,14,2025-01-28,0.0,Emergencia,Transmisión,Clutch,Alta,Falta de lubricación,Cambio de pieza dañada,13,2302.1,2722,5024.1,Completado
+M00383,36,10,2025-02-22,15078.0,Correctivo,Combustible,Bomba de combustible,Baja,Obstrucción,Corrección de falla,2,12427.1,3066,15493.1,Pendiente
+M00384,36,10,2025-03-22,20304.0,Preventivo,Combustible,Bomba de combustible,Alta,Falla de inyector,Inspección y ajuste,22,7787.41,3170,10957.41,Completado
+M00385,36,9,2025-03-31,24757.0,Preventivo,Motor,Bomba de agua,Alta,Sobrecalentamiento,Lubricación,13,924.39,694,1618.39,Pendiente
+M00386,36,13,2025-05-12,11843.0,Correctivo,Combustible,Filtro de combustible,Media,Falla de inyector,Cambio de pieza dañada,12,22020.63,1015,23035.63,Pendiente
+M00387,36,6,2025-06-19,9213.0,Correctivo,Suspensión,Neumáticos,Baja,Golpe por irregularidad del camino,Ajuste y calibración,1,13037.73,3087,16124.73,Completado
+M00388,36,18,2025-10-09,37635.0,Correctivo,Sensores,Sensor de presión,Baja,Desgaste por uso,Ajuste y calibración,3,3687.42,1917,5604.42,Completado
+M00389,36,20,2025-10-09,63422.0,Correctivo,Escape,Sistema de escape,Media,Falla eléctrica,Corrección de falla,4,19014.98,2494,21508.98,Completado
+M00390,36,2,2025-11-21,51438.0,Emergencia,Sistema eléctrico,Alternador,Media,Desgaste por uso,Reparación del componente,5,31258.14,658,31916.14,Completado
+M00391,36,5,2025-12-16,64489.0,Preventivo,Frenos,Discos de freno,Alta,Fuga de líquido,Lubricación,12,4842.24,2908,7750.24,Completado
+M00392,36,17,2025-12-28,0.0,Preventivo,Sensores,Sensor de temperatura,Baja,Falla eléctrica,Lubricación,1,6115.39,1645,7760.39,Completado
+M00393,36,14,2025-12-29,26174.0,Preventivo,Transmisión,Clutch,Crítica,Fuga de aceite,Revisión general,29,751.34,2257,3008.34,Pendiente
+M00394,36,17,2026-02-20,61617.0,Correctivo,Sensores,Sensor de temperatura,Alta,Falla eléctrica,Corrección de falla,22,12636.79,2878,15514.79,Pendiente
+M00395,36,3,2026-05-31,57561.0,Emergencia,Sistema eléctrico,Batería,Baja,Mantenimiento preventivo,Ajuste y calibración,4,31966.85,2390,34356.85,Completado
+M00396,36,20,2026-06-02,0.0,Emergencia,Escape,Sistema de escape,Baja,Mantenimiento preventivo,Reparación del componente,3,30007.69,856,30863.69,Completado
+M00397,37,5,2024-03-22,10654.0,Preventivo,Frenos,Discos de freno,Alta,Desgaste de discos,Inspección y ajuste,26,5911.72,3025,8936.72,Completado
+M00398,37,10,2024-05-09,0.0,Preventivo,Combustible,Bomba de combustible,Media,Falla de inyector,Ajuste del componente,9,8302.05,3301,11603.05,Completado
+M00399,37,5,2024-11-04,833.0,Correctivo,Frenos,Discos de freno,Baja,Fuga de líquido,Corrección de falla,2,7307.8,2718,10025.8,Pendiente
+M00400,37,19,2025-03-01,0.0,Preventivo,Sistema eléctrico,Luces,Media,Falla mecánica,Inspección y ajuste,7,7062.87,3436,10498.87,Completado
+M00401,37,20,2025-06-21,0.0,Preventivo,Escape,Sistema de escape,Baja,Falla eléctrica,Cambio preventivo,1,13409.25,1100,14509.25,Pendiente
+M00402,37,14,2025-07-15,0.0,Correctivo,Transmisión,Clutch,Alta,Desgaste de engranajes,Corrección de falla,24,1540.9,3265,4805.9,Completado
+M00403,37,8,2025-07-17,0.0,Correctivo,Motor,Radiador,Alta,Sobrecalentamiento,Reparación del componente,12,20433.65,2871,23304.65,Completado
+M00404,37,14,2025-10-26,0.0,Correctivo,Transmisión,Clutch,Media,Sobrecalentamiento,Reemplazo del componente,12,1731.04,1789,3520.04,Completado
+M00405,37,1,2026-02-04,0.0,Preventivo,Motor,Motor,Baja,Desgaste por kilometraje,Revisión general,1,10770.9,2901,13671.9,Pendiente
+M00406,37,9,2026-04-19,0.0,Correctivo,Motor,Bomba de agua,Media,Sobrecalentamiento,Ajuste y calibración,6,1419.85,2646,4065.85,Completado
+M00407,38,1,2024-04-14,34524.0,Correctivo,Motor,Motor,Alta,Desgaste por kilometraje,Reemplazo del componente,25,22969.48,611,23580.48,Completado
+M00408,38,20,2025-01-12,31849.0,Correctivo,Escape,Sistema de escape,Baja,Falla eléctrica,Ajuste y calibración,3,21727.38,2968,24695.38,Pendiente
+M00409,38,3,2025-03-21,29807.0,Correctivo,Sistema eléctrico,Batería,Media,Falla mecánica,Reparación del componente,6,25161.23,3083,28244.23,Completado
+M00410,38,12,2025-06-13,0.0,Preventivo,Motor,Filtro de aire,Alta,Desgaste interno,Inspección y ajuste,20,2759.24,3424,6183.24,Completado
+M00411,38,19,2025-10-13,0.0,Preventivo,Sistema eléctrico,Luces,Media,Falla mecánica,Revisión general,11,8979.52,1880,10859.52,Completado
+M00412,38,10,2025-10-18,0.0,Correctivo,Combustible,Bomba de combustible,Media,Desgaste de bomba,Ajuste y calibración,9,11118.7,2338,13456.7,Completado
+M00413,38,17,2025-10-20,54463.0,Correctivo,Sensores,Sensor de temperatura,Baja,Desgaste por uso,Cambio de pieza dañada,2,9437.05,2349,11786.05,Completado
+M00414,38,1,2025-11-21,0.0,Preventivo,Motor,Motor,Media,Desgaste por kilometraje,Revisión general,11,8747.29,2409,11156.29,Completado
+M00415,38,1,2026-05-04,31829.0,Correctivo,Motor,Motor,Baja,Sobrecalentamiento,Ajuste y calibración,4,21805.99,2322,24127.99,Completado
+M00416,38,9,2026-05-22,24001.0,Emergencia,Motor,Bomba de agua,Baja,Desgaste por kilometraje,Corrección de falla,1,2188.92,509,2697.92,Pendiente
+M00417,38,3,2026-08-07,65719.0,Correctivo,Sistema eléctrico,Batería,Baja,Falla eléctrica,Reemplazo del componente,1,17432.54,3416,20848.54,Completado
+M00418,39,13,2025-05-18,36351.0,Preventivo,Combustible,Filtro de combustible,Crítica,Obstrucción,Lubricación,40,6084.6,906,6990.6,Completado
+M00419,39,1,2025-07-02,105825.0,Preventivo,Motor,Motor,Alta,Desgaste por kilometraje,Inspección y ajuste,14,8228.89,1081,9309.89,Completado
+M00420,39,14,2025-08-11,92471.0,Preventivo,Transmisión,Clutch,Media,Fuga de aceite,Lubricación,6,715.07,691,1406.07,Completado
+M00421,39,11,2026-02-18,86141.0,Correctivo,Combustible,Inyectores,Media,Fuga,Reparación del componente,6,18588.75,1350,19938.75,Completado
+M00422,39,18,2026-04-28,81655.0,Emergencia,Sensores,Sensor de presión,Baja,Desgaste por uso,Ajuste y calibración,1,5951.24,2423,8374.24,Completado
+M00423,39,11,2026-07-04,23878.0,Preventivo,Combustible,Inyectores,Baja,Obstrucción,Cambio preventivo,1,7494.96,2886,10380.96,Pendiente
+M00424,39,9,2026-07-11,69467.0,Emergencia,Motor,Bomba de agua,Alta,Sobrecalentamiento,Reparación del componente,22,1907.12,3263,5170.12,Completado
+M00425,39,6,2026-07-17,99671.0,Correctivo,Suspensión,Neumáticos,Media,Desgaste de bujes,Reemplazo del componente,6,13679.41,2037,15716.41,Completado
+M00426,40,2,2019-01-19,173208.0,Preventivo,Sistema eléctrico,Alternador,Baja,Mantenimiento preventivo,Inspección y ajuste,4,7718.93,2878,10596.93,Completado
+M00427,40,14,2019-01-24,88442.0,Preventivo,Transmisión,Clutch,Alta,Desgaste por kilometraje,Lubricación,12,776.39,3393,4169.39,Pendiente
+M00428,40,4,2019-05-29,166740.0,Preventivo,Frenos,Pastillas de freno,Media,Desgaste por uso,Revisión general,4,11635.44,3106,14741.44,Pendiente
+M00429,40,8,2020-04-04,102550.0,Emergencia,Motor,Radiador,Crítica,Sobrecalentamiento,Cambio de pieza dañada,43,24654.94,2345,26999.94,Pendiente
+M00430,40,7,2020-08-27,98013.0,Preventivo,Suspensión,Amortiguadores,Baja,Desgaste por uso,Lubricación,1,1066.03,1915,2981.03,Completado
+M00431,40,15,2021-10-07,97233.0,Preventivo,Transmisión,Caja de cambios,Crítica,Falta de lubricación,Lubricación,28,752.26,1935,2687.26,Completado
+M00432,40,17,2023-03-26,74299.0,Correctivo,Sensores,Sensor de temperatura,Baja,Desgaste por uso,Ajuste y calibración,3,10055.06,2212,12267.06,Completado
+M00433,40,3,2024-02-23,151622.0,Preventivo,Sistema eléctrico,Batería,Baja,Falla eléctrica,Lubricación,2,9585.68,2037,11622.68,Completado
+M00434,40,16,2024-03-12,110907.0,Preventivo,Motor,Banda de distribución,Alta,Desgaste interno,Cambio preventivo,23,8084.48,3100,11184.48,Pendiente
+M00435,40,18,2025-01-16,173556.0,Preventivo,Sensores,Sensor de presión,Baja,Falla mecánica,Cambio preventivo,3,2833.5,3465,6298.5,Completado
+M00436,40,6,2025-09-02,155826.0,Preventivo,Suspensión,Neumáticos,Baja,Desgaste por uso,Ajuste del componente,1,6004.92,1582,7586.92,Completado
+M00437,40,13,2026-01-20,137228.0,Preventivo,Combustible,Filtro de combustible,Baja,Obstrucción,Cambio preventivo,2,11607.91,1320,12927.91,Pendiente
